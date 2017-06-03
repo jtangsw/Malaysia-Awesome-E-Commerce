@@ -24,7 +24,7 @@
 Name | Features | Conditions| Example(RM100)
 -----|----------|-----------|-----------
 [2c2p](www.2c2p.com)|Credit / Debit cards / Alipay/Wechatpay/ alternative payments / multi-currencies | 2% - 3.5% / Min:Rm1.50
-[eGHL](http://e-ghl.com)| Credit/Debit Cards | 2.5% for FPX | 2.5% or Min:RM0.70
+[eGHL](http://e-ghl.com)| Credit/Debit Cards | 2.5% for FPX, 2.5% or Min:RM0.70
 [Example](http://www.example.com/)| Credit/Debit Cards | ?.?% + 0.0RM
 
 ## Market Place
