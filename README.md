@@ -23,8 +23,9 @@
 
 Name | Features | Conditions
 -----|----------|-----------
-[Sample:MolPay](http://www.molpay.com/)| Credit/Debit Cards | ?.?% + 0.0RM
+[MolPay](http://www.molpay.com/)| Credit/Debit Cards | ?.?% + 0.0RM
 [eGHL](http://e-ghl.com)| Credit/Debit Cards | ?.?% + 0.0RM
+[2C2P](www.2c2p.com) | | 
 
 
 ## Market Place
@@ -33,6 +34,7 @@ Name | Features | Conditions
 * [11street](http://www.11street.my/)
 * [Lazada Malaysia](http://www.lazada.com.my/)
 * [Zalora Malaysia](https://www.zalora.com.my/)
+* [Coopshoppe](https://www.coopshoppe.coop/)
 
 ## Popular Online Services
 
