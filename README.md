@@ -25,8 +25,7 @@ Name | Features | Conditions
 -----|----------|-----------
 [MolPay](http://www.molpay.com/)| Credit/Debit Cards | ?.?% + 0.0RM
 [eGHL](http://e-ghl.com)| Credit/Debit Cards | ?.?% + 0.0RM
-[2C2P](www.2c2p.com) | | 
-
+[2c2p] (www.2c2p.com) |Credit / Debit cards / Alipay/Wechatpay/ alternative payments / multi-currencies | 2% - 3.5% / Rm1.50
 
 ## Market Place
 > This is a list of Malaysia Based Online Market Place Services.
