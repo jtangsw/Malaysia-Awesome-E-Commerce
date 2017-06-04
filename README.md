@@ -51,7 +51,7 @@ Name | Features | Conditions| Example(RM100)
 * [Happy Fresh](https://www.happyfresh.my/)
 
 ### Online Organic Product
-* [Signaturemarket](http://www.signaturemarket.co/)
+* [Signature Market](http://www.signaturemarket.co/)
 * [Amazing Graze](https://www.amazingraze.co/)
 
 ### Dropshiping
