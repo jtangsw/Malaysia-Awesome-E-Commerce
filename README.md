@@ -46,19 +46,19 @@ Name | Features | Conditions| Example(RM100)
 ### Wedding
 * [NUREN:Wedding](http://www.wedding.com.my/)
 
-### Online Grocery 
+### Grocery 
 * [Jocom](https://www.jocom.my/)
 * [Happy Fresh](https://www.happyfresh.my/)
 
-### Online Organic Product
+### Organic Product
 * [Signature Market](http://www.signaturemarket.co/)
 * [Amazing Graze](https://www.amazingraze.co/)
 
-### Dropshiping
+### Drop Shiping
 * [Kumoten](http://www.kumoten.com/)
 
 
-### Online Tickting Services
+### Tickting Services
 * [Catch That Bus](http://www.catchthatbus.com/)
 
 
