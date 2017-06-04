@@ -43,6 +43,8 @@ Name | Features | Conditions| Example(RM100)
 * [Baby Dash](https://www.babydash.com.my/)
 * [NUREN:MotherHood](http://www.motherhood.com.my/)
 
+### Wedding
+* [NUREN:Wedding](http://www.wedding.com.my/)
 
 ### Online Grocery 
 * [Jocom](https://www.jocom.my/)
@@ -51,9 +53,11 @@ Name | Features | Conditions| Example(RM100)
 ### Online Tickting Services
 * [Catch That Bus](http://www.catchthatbus.com/)
 
+
 ### Cashback Services
 * [CashPow](http://www.cardpow.com/)
 * [MilkADeal](https://www.milkadeal.com/)
+
 
 
 ## Books
