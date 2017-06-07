@@ -74,6 +74,9 @@ Name | Features | Conditions| Example(RM100)
 ### Cross-border Ecommerce
 * [Posmogo](http://www.posmogo.com)
 
+### Client Service
+* [Meekco](http://www.meekco.asia/)
+
 
 ## Books
 
