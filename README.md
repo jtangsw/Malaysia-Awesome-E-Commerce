@@ -57,6 +57,8 @@ Name | Features | Conditions| Example(RM100)
 ### Drop Shiping
 * [Kumoten](http://www.kumoten.com/)
 
+### Fashion
+*[Doublewoot](https://www.double-woot.com)
 
 ### Tickting Services
 * [Catch That Bus](http://www.catchthatbus.com/)
@@ -66,6 +68,11 @@ Name | Features | Conditions| Example(RM100)
 * [CashPow](http://www.cardpow.com/)
 * [MilkADeal](https://www.milkadeal.com/)
 
+### Price Comparison Site
+*[Shopbot](www.shopbot.com.my)
+
+##Cross-border Ecommerce
+*[Posmogo](http://www.posmogo.com)
 
 
 ## Books
