@@ -69,10 +69,10 @@ Name | Features | Conditions| Example(RM100)
 * [MilkADeal](https://www.milkadeal.com/)
 
 ### Price Comparison Site
-*[Shopbot](www.shopbot.com.my)
+* [Shopbot](www.shopbot.com.my)
 
-##Cross-border Ecommerce
-*[Posmogo](http://www.posmogo.com)
+### Cross-border Ecommerce
+* [Posmogo](http://www.posmogo.com)
 
 
 ## Books
