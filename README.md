@@ -34,6 +34,7 @@ Name | Features | Conditions| Example(RM100)
 * [Lazada Malaysia](http://www.lazada.com.my/)
 * [Zalora Malaysia](https://www.zalora.com.my/)
 * [Coopshoppe](https://www.coopshoppe.coop/)
+* [ModeFair](https://www.modefair.com/) ModeFair is a marketplace for curated products because it functions as a platform that connects Brands with Social Influencers to sell online. 
 
 ## Popular Online Services
 
