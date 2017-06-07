@@ -82,7 +82,7 @@ Name | Features | Conditions| Example(RM100)
 ## Newsletters
 
 ## Community Leader 
-* [Carol Fung](http://www.carolfung.com)
+* [Carol Fung](http://www.ecommerceacademy.my/)
 
 
 ## Meetups
