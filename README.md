@@ -58,7 +58,7 @@ Name | Features | Conditions| Example(RM100)
 * [Kumoten](http://www.kumoten.com/)
 
 ### Fashion
-*[Doublewoot](https://www.double-woot.com)
+* [Doublewoot](https://www.double-woot.com)
 
 ### Tickting Services
 * [Catch That Bus](http://www.catchthatbus.com/)
