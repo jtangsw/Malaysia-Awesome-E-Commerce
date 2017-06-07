@@ -60,18 +60,18 @@ Name | Features | Conditions| Example(RM100)
 ### Fashion
 * [Doublewoot](https://www.double-woot.com)
 
-### Tickting Services
+### Tickting
 * [Catch That Bus](http://www.catchthatbus.com/)
 
 
-### Cashback Services
+### Cashback
 * [CashPow](http://www.cardpow.com/)
 * [MilkADeal](https://www.milkadeal.com/)
 
-### Price Comparison Site
+### Price Comparison
 * [Shopbot](www.shopbot.com.my)
 
-### Cross-border Ecommerce
+### Cross-border
 * [Posmogo](http://www.posmogo.com)
 
 ### Client Service
